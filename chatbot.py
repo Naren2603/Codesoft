@@ -71,7 +71,7 @@ pairs = [
     ],
     [
         r"(.*)raining in (.*)",
-        ["Yes, rain in the past 4 days here in %2","In %2 there is a 80% chance of rain",]
+        ["Yes, rain in the past 4 days here in %2","In %2 there is a 70% chance of rain",]
     ],
     [
         r"how (.*) health (.*)",
@@ -83,7 +83,7 @@ pairs = [
     ],
     [
         r"who (.*) (Cricketer|Batsman)?",
-        ["Mahendra Singh Dhoni "]
+        ["Virat Kolhi "]
     ],
     [
         r"quit",
